@@ -1,0 +1,26 @@
+CustomerID,FullName,Gender,DOB,City,Country,Email,Phone,JoinDate
+CUST025,John Doe,Male,26/01/1999,Enugu,Nigeria,chiomaeze@gmail.com,8125629535,04/09/2022
+CUST026,Emeka Obi,MALE,22/12/1987,lagoss,Nigeria,peter.johnsongmail.com,8128436950,20/03/2021
+CUST027,Emeka Obi,Male,25/09/1986,Abjua,Nigeria,maryann@gmail..com,8129859926,12/07/2022
+CUST028,Michael Adeyemi,MALE,24/11/1990,ENUGU,Nigeria,joyuche@Gmail.com,,02/10/2018
+CUST029,Michael Adeyemi,Female,01/05/1988,ibadan,Nigeria,johndoe@gmail.com,2.34805E+12,05/04/2020
+CUST030,Sarah Musa,FEMALE,01/07/1985,Enugu,Nigeria,johndoe@gmail.com,,11/04/2023
+CUST031,David Okoro,MALE,19/02/1975,Lagos,Nigeria,chiomaeze@gmail.com,8124065056,17/03/2018
+CUST032,Chioma Eze,Female,21/09/1978,Abuja,Nigeria,michael.adeyemi@gmail.com,2.34807E+12,15/02/2023
+CUST033,Mary Ann,FEMALE,06/07/2001,Lagos,Nigeria,michael.adeyemi@gmail.com,8123838225,04/10/2018
+CUST034,Chioma Eze,MALE,,Port Harcourt,Nigeria,sarahmusa@gmail.com,2.34809E+12,05/02/2021
+CUST035,Emeka Obi,FEMALE,03/02/1992,Benin City,Nigeria,maryann@gmail..com,2.34802E+12,21/07/2019
+CUST036,John Doe,Male,,Enugu,Nigeria,peter.johnsongmail.com,8123750975,29/05/2023
+CUST037,David Okoro,MALE,16/08/1976,Port Harcourt,Nigeria,michael.adeyemi@gmail.com,,07/05/2022
+CUST038,David Okoro,Male,01/03/1977,Ibadan,Nigeria,sarahmusa@gmail.com,,14/02/2021
+CUST039,Joy Uche,FEMALE,07/08/2001,ENUGU,Nigeria,sarahmusa@gmail.com,8124807086,08/09/2018
+CUST040,Michael Adeyemi,Male,19/09/1993,Benin City,Nigeria,joyuche@Gmail.com,8126727644,25/10/2021
+CUST041,John Doe,FEMALE,,Abuja,Nigeria,peter.johnsongmail.com,2.34805E+12,14/03/2017
+CUST042,Chioma Eze,FEMALE,26/10/1975,Lagos,Nigeria,joyuche@Gmail.com,8122028115,09/11/2022
+CUST043,Mary-Ann Bello,MALE,10/05/1982,Lagos,Nigeria,davidokoro@yahoo,,30/05/2022
+CUST044,John Doe,MALE,15/03/2003,Ibadan,Nigeria,peter.johnsongmail.com,8128323720,04/01/2023
+CUST045,Peter Johnson,Female,08/12/1990,lagoss,Nigeria,sarahmusa@gmail.com,,27/06/2018
+CUST046,David Okoro,MALE,08/12/2000,Enugu,Nigeria,chiomaeze@gmail.com,2.34809E+12,23/01/2022
+CUST047,Michael Adeyemi,Male,,Benin City,Nigeria,davidokoro@yahoo,8127014880,20/06/2022
+CUST048,Chioma Eze,MALE,14/11/2004,Lagos,Nigeria,johndoe@gmail.com,8126963220,16/01/2017
+CUST049,Mary-Ann Bello,Male,15/06/1999,Abjua,Nigeria,michael.adeyemi@gmail.com,8128094668,02/11/2022
